@@ -1,3 +1,10 @@
+# IDE file/dir
+.idea/
+*.iml
+
+# Maven
+target/
+
 # Compiled class file
 *.class
 
